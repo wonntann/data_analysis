@@ -21,6 +21,13 @@
   * Implementation
 
 
+## Focus
+* Know your goal
+* Match methods to your goal
+* Focus on usability
+* Don't get confused with probabilities
+
+
 ## Python Ecosystem
   * Libraries:
     * (pandas)[https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example]
