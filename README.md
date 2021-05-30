@@ -30,8 +30,8 @@
 
 ## Python Ecosystem
   * Libraries:
-    * (pandas)[https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example]
-    * (matplotlib)[]
+    * [pandas](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example)
+    * [matplotlib](https://matplotlib.org/stable/contents.html)
     * (numpy)[]
     * (seaborn)[]
     * (statsmodel)[]
