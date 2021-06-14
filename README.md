@@ -1,6 +1,10 @@
 # Data Analysis
 #### Process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
 
+## Installation
+*[Anaconda](https://www.anaconda.com/)
+* [Pandas](https://pandas.pydata.org/)
+
 ## Process
 * Data Extraction
   * Distributed databases, scrapping, SQL, buying data
@@ -43,5 +47,5 @@
 
 #### Reading data from csv file
 
-* (Bike Shop Analysis)[https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example] @ine-rmotr-curriculum 
+* [Bike Shop Analysis](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example) @ine-rmotr-curriculum 
 
