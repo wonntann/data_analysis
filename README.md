@@ -2,7 +2,8 @@
 #### Process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
 
 ## Installation
-*[Anaconda](https://www.anaconda.com/)
+* [Anaconda](https://www.anaconda.com/)
+* [JupyterLab](https://jupyter.org/install)
 * [Pandas](https://pandas.pydata.org/)
 
 ## Process
