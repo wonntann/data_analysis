@@ -37,11 +37,11 @@
   * Libraries:
     * [pandas](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example)
     * [matplotlib](https://matplotlib.org/stable/contents.html)
-    * (numpy)[]
-    * (seaborn)[]
-    * (statsmodel)[]
-    * (scipy)[]
-    * (scikit-learn)[]
+    * (numpy)[https://numpy.org/]
+    * (seaborn)[https://seaborn.pydata.org/]
+    * (statsmodel)[https://www.statsmodels.org/stable/index.html]
+    * (scipy)[https://scipy.org/]
+    * (scikit-learn)[https://scikit-learn.org/stable/]
 
 
 ### Examples
